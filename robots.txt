@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://citiguqutawa.b-cdn.net/sitemap.xml
